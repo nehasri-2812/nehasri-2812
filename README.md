@@ -62,6 +62,21 @@ HTML | CSS | JavaScript
 
 ---
 
+### Online Food Ordering System (MERN)
+
+Full-stack food ordering application with secure payment integration.
+
+**Features:**
+- Dynamic cart functionality
+- Secure checkout system
+- REST APIs
+- Payment gateway integration
+
+**Tech Stack:**
+MongoDB | Express.js | React.js | Node.js
+
+---
+
 ### Campus Lost & Found Management System (MERN)
 
 Web application for managing lost-and-found items within campus.
