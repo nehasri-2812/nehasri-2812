@@ -1,6 +1,6 @@
 # Hi, I'm Nehasri 👋
 
-### Aspiring Software Engineer | Problem Solver | Full Stack & AI Enthusiast
+### Aspiring Software Engineer | Problem Solver | Full Stack Enthusiast
 
 Passionate about building impactful software solutions and solving real-world problems through technology. I enjoy creating scalable applications, learning new technologies, and continuously improving my development skills.
 
